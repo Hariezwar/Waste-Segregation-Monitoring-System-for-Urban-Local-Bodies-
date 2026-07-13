@@ -164,35 +164,8 @@ Reports & Analytics Generated
 
 ---
 
-## 🔮 Future Enhancements
-
-- AI-powered waste identification using cameras
-- Smart bins with IoT sensors
-- Route optimization using Machine Learning
-- Mobile application for citizens
-- QR Code-based bin identification
-- Carbon footprint monitoring
-- Voice assistant support
-- Predictive analytics for waste generation
-- Integration with Smart City platforms
-
----
-
 ## 👨‍💻 Developed By
 
-**HARIEZWAR U**
+HARIEZWAR U
 ---
 
-##  🌟 Project Vision
-
-We believe waste should not be seen as a problem but as a resource waiting to be managed properly.
-
-By combining technology with responsible waste management, this project aims to create cleaner streets, healthier communities, and smarter cities for the future.
-
----
-
-## ⭐ If you like this project...
-
-Give this repository a ⭐ and support smart solutions for sustainable cities.
-
-> **"Small actions today create cleaner cities tomorrow."** ♻️
